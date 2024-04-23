@@ -1,0 +1,1 @@
+Only basic Java concepts are used for creating this mini-project. It is a simple application for ordering burgers. Due to the limited use of arrays or other concepts, the code is probably a bit repetitive.
